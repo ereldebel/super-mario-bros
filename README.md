@@ -24,3 +24,9 @@ How to play:
 Left and right arrows to move. Space to jump. Ctrl to throw fireballs with the power up equipped.
 
 Screenshots:
+![image](https://user-images.githubusercontent.com/63117010/146903014-ea453116-23c2-4d7c-9d61-8836cf9cbfb0.png)
+![image](https://user-images.githubusercontent.com/63117010/146903042-44be5e3a-d8ae-425d-bc18-ba246bd17b3f.png)
+![image](https://user-images.githubusercontent.com/63117010/146903070-bdfa1a5d-73bb-40d8-b36b-b22dffbc595d.png)
+![image](https://user-images.githubusercontent.com/63117010/146903112-546b6d9f-e4e2-4cf0-b355-e142286fcff5.png)
+
+

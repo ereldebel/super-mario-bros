@@ -1,0 +1,3 @@
+The Enemy walk in a constant pace and turns on colission. The right wall should disappear to allow the enemy to drop and destroy itself.
+
+Enemy = Hexagon.

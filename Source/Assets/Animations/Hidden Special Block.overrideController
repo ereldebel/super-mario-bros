@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden Special Block
+  m_Controller: {fileID: 9100000, guid: b4d80f1146daac440a9d9c9f59dc4bd6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0ec0dc755fd53d4439e5d83ed9675106, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c37fc4b5f93d534d9c908df47392248, type: 2}

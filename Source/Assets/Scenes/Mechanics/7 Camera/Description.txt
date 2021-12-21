@@ -1,0 +1,6 @@
+The camera keeps the player in the middle if he walks right and blocks him from exiting the camera frame from the right (keeping him in the left half of the screen).
+The player can walk using the right and left arrows (using the 1st mechanic script).
+
+Player = Capsule.
+
+- The keys used for the player movement can be easily changed using the inspector.

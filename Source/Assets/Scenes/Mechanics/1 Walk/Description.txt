@@ -1,0 +1,6 @@
+The player can walk using the right and left arrows.
+
+Player = Capsule.
+
+- The camera doesn't follow the player.
+- The keys used for the player movement can be easily changed using the inspector.

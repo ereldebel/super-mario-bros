@@ -1,0 +1,6 @@
+The player can throw fireballs using the left ctrl key. The player can change the throw direction using the left and right arrows.
+Fireballs destroy enemies on collision and destroy themselves with every wall/enemy collision or when exiting the camera frame.
+
+Player = Capsule.
+Fireball = Red Ball.
+Enemy = Hexagon.

@@ -1,0 +1,5 @@
+The player can jump using the space bar.
+
+Player = Capsule.
+
+- The key used for the player jump can be easily changed using the inspector.

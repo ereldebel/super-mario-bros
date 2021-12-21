@@ -1,0 +1,4 @@
+When the enemy hits the player, the player destroys itself.
+
+Enemy = Circle.
+Player = Capsule.

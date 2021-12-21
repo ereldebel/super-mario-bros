@@ -1,0 +1,4 @@
+When the player hits an enemy using his "feet" he makes a little hop and destroys the enemy.
+
+Player = Capsule.
+Enemy = Hexagon.

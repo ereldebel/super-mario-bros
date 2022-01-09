@@ -1,4 +1,4 @@
-# super-mario-bros
+# Super Mario Bros
 My second Unity and C# project.
 First level of the original Super Mario Bros. for the NES By Nintendo Co., Ltd. recreated using Unity and C#.
 
